@@ -1,6 +1,6 @@
 const axios = require('axios');
 const { URLSearchParams } = require('url');
-// const token = require('./token');
+
 
 const SERVER_URL = 'http://localhost:3000';
 
